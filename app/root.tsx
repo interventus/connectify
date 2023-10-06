@@ -86,7 +86,7 @@ export function ErrorBoundary() {
               {error.status} {error.statusText}
             </h1>
             <Link to="/" className="font-bold text-primary">
-              Go Home
+              Back to Home
             </Link>
           </div>
         </div>
